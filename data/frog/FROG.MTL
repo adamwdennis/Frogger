@@ -1,0 +1,24 @@
+# Wavefront material library
+# Tue Aug 03 08:00:50 1999
+# Created with Viewpoint Interchange www.viewpoint.com
+
+newmtl frog_body
+  Ka 0 0 0
+  Kd 0 0 0
+  Ks 0 0 0
+  illum 2
+  map_Kd images\frog.TIF
+
+newmtl frog_irisr
+  Ka 0 0 0
+  Kd 0 0 0
+  Ks 0 0 0
+  illum 2
+  map_Kd images\eye_a3.TIF
+
+newmtl frog_irisl
+  Ka 0 0 0
+  Kd 0 0 0
+  Ks 0 0 0
+  illum 2
+  map_Kd images\eye_a3.TIF
